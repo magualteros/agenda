@@ -1,0 +1,19 @@
+#root{
+    box-sizing: border-box;
+    margin: 0;
+}
+header, main,footer{
+    width: 90%;
+    margin: auto;
+}
+
+
+.form-container{
+    width: 400px;
+}
+.form-control{
+background-color: #1db5fc8c;
+}
+div{
+    margin: 4px;
+}
